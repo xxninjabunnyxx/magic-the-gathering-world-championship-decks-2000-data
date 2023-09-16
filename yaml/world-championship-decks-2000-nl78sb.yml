@@ -1,0 +1,106 @@
+---
+object: card
+id: ddd7fe52-4ec0-4582-b80a-3524a0d2426c
+oracle_id: 7a756cd1-29a8-4edf-bb74-fbb5b4020022
+multiverse_ids: []
+tcgplayer_id: 164501
+cardmarket_id: 249686
+name: Energy Flux
+lang: en
+released_at: '2000-08-02'
+uri: https://api.scryfall.com/cards/ddd7fe52-4ec0-4582-b80a-3524a0d2426c
+scryfall_uri: https://scryfall.com/card/wc00/nl78sb/energy-flux?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.jpg?1562767736
+  normal: https://cards.scryfall.io/normal/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.jpg?1562767736
+  large: https://cards.scryfall.io/large/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.jpg?1562767736
+  png: https://cards.scryfall.io/png/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.png?1562767736
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.jpg?1562767736
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddd7fe52-4ec0-4582-b80a-3524a0d2426c.jpg?1562767736
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: All artifacts have "At the beginning of your upkeep, sacrifice this artifact
+  unless you pay {2}."
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+set: wc00
+set_name: World Championship Decks 2000
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc00?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddd7fe52-4ec0-4582-b80a-3524a0d2426c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a756cd1-29a8-4edf-bb74-fbb5b4020022&unique=prints
+collector_number: nl78sb
+digital: false
+rarity: uncommon
+flavor_text: Karn said nothing—he just grasped the powerstone and squeezed tightly.
+  The wild flashing ceased.
+card_back_id: 056eb595-ee96-4682-9206-1eaba1e88719
+artist: Qiao Dafu
+artist_ids:
+- 74b8d1ff-74ee-4588-8002-7e7f88729ef2
+illustration_id: ebec4560-a7b3-4c05-9c8e-59ec46f65c7a
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9296
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.24'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Energy+Flux&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Energy+Flux&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Energy+Flux
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164501?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Energy+Flux&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Energy+Flux&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

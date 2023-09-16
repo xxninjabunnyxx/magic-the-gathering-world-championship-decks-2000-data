@@ -1,0 +1,106 @@
+---
+object: card
+id: b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb
+oracle_id: 86fb3749-37d6-48a6-8524-71e996850307
+multiverse_ids: []
+tcgplayer_id: 164506
+cardmarket_id: 249678
+name: High Market
+lang: en
+released_at: '2000-08-02'
+uri: https://api.scryfall.com/cards/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb
+scryfall_uri: https://scryfall.com/card/wc00/nl320b/high-market?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.jpg?1562767272
+  normal: https://cards.scryfall.io/normal/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.jpg?1562767272
+  large: https://cards.scryfall.io/large/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.jpg?1562767272
+  png: https://cards.scryfall.io/png/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.png?1562767272
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.jpg?1562767272
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb.jpg?1562767272
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}, Sacrifice a creature: You gain 1 life.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+set: wc00
+set_name: World Championship Decks 2000
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc00?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86fb3749-37d6-48a6-8524-71e996850307&unique=prints
+collector_number: nl320b
+digital: false
+rarity: rare
+flavor_text: If it can't be had here, it can't be had on any world.
+card_back_id: 056eb595-ee96-4682-9206-1eaba1e88719
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 609e4b37-25e7-4528-90ca-20f86134f20c
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 271
+prices:
+  usd: '2.06'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.60'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=High+Market&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=High+Market&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=High+Market
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164506?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=High+Market&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=High+Market&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

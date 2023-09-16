@@ -1,0 +1,108 @@
+---
+object: card
+id: 675a531a-072d-4a59-ac72-5b3a04d1ec3b
+oracle_id: 7b31ecf8-5266-4376-ace0-8b873706c4ea
+multiverse_ids: []
+tcgplayer_id: 164549
+cardmarket_id: 249615
+name: Saproling Burst
+lang: en
+released_at: '2000-08-02'
+uri: https://api.scryfall.com/cards/675a531a-072d-4a59-ac72-5b3a04d1ec3b
+scryfall_uri: https://scryfall.com/card/wc00/jk113/saproling-burst?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.jpg?1562767038
+  normal: https://cards.scryfall.io/normal/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.jpg?1562767038
+  large: https://cards.scryfall.io/large/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.jpg?1562767038
+  png: https://cards.scryfall.io/png/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.png?1562767038
+  art_crop: https://cards.scryfall.io/art_crop/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.jpg?1562767038
+  border_crop: https://cards.scryfall.io/border_crop/front/6/7/675a531a-072d-4a59-ac72-5b3a04d1ec3b.jpg?1562767038
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: |-
+  Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+  Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has "This creature's power and toughness are each equal to the number of fade counters on Saproling Burst."
+  When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can't be regenerated.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Fading
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+set: wc00
+set_name: World Championship Decks 2000
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc00?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/675a531a-072d-4a59-ac72-5b3a04d1ec3b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b31ecf8-5266-4376-ace0-8b873706c4ea&unique=prints
+collector_number: jk113
+digital: false
+rarity: rare
+card_back_id: 056eb595-ee96-4682-9206-1eaba1e88719
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: c257d052-88fa-42e4-97fa-9fe9352e79f5
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13067
+penny_rank: 1895
+prices:
+  usd: '0.39'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Saproling+Burst&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Saproling+Burst&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Saproling+Burst
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164549?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Saproling+Burst&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saproling+Burst&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

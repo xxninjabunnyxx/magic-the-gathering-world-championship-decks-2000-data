@@ -1,0 +1,106 @@
+---
+object: card
+id: 05a4b6c1-df65-4bb2-b295-df35fb20c42a
+oracle_id: 59180e94-ccdf-4d9f-9a4a-fe55497d0d63
+multiverse_ids: []
+tcgplayer_id: 164531
+name: Creeping Mold
+lang: en
+released_at: '2000-08-02'
+uri: https://api.scryfall.com/cards/05a4b6c1-df65-4bb2-b295-df35fb20c42a
+scryfall_uri: https://scryfall.com/card/wc00/jk220sb/creeping-mold?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.jpg?1562766127
+  normal: https://cards.scryfall.io/normal/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.jpg?1562766127
+  large: https://cards.scryfall.io/large/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.jpg?1562766127
+  png: https://cards.scryfall.io/png/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.png?1562766127
+  art_crop: https://cards.scryfall.io/art_crop/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.jpg?1562766127
+  border_crop: https://cards.scryfall.io/border_crop/front/0/5/05a4b6c1-df65-4bb2-b295-df35fb20c42a.jpg?1562766127
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Destroy target artifact, enchantment, or land.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+set: wc00
+set_name: World Championship Decks 2000
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc00?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/05a4b6c1-df65-4bb2-b295-df35fb20c42a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59180e94-ccdf-4d9f-9a4a-fe55497d0d63&unique=prints
+collector_number: jk220sb
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Mold could catch you."
+  —Suq'Ata insult
+card_back_id: 056eb595-ee96-4682-9206-1eaba1e88719
+artist: David Seeley
+artist_ids:
+- fb9f7cb7-40a6-4e1c-9af0-80ffa69e24e4
+illustration_id: e93956b8-744f-4d85-b3be-d07b0a60ea2c
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12138
+penny_rank: 4923
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Creeping+Mold&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Creeping+Mold&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Creeping+Mold
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164531?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Creeping+Mold&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Creeping+Mold&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,105 @@
+---
+object: card
+id: 9fc78f1d-a191-4182-8064-8970ec47a525
+oracle_id: f4aa8391-34d5-4ad2-a981-9aa08f8229db
+multiverse_ids: []
+tcgplayer_id: 164490
+cardmarket_id: 249681
+name: Absolute Law
+lang: en
+released_at: '2000-08-02'
+uri: https://api.scryfall.com/cards/9fc78f1d-a191-4182-8064-8970ec47a525
+scryfall_uri: https://scryfall.com/card/wc00/nl2sba/absolute-law?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.jpg?1562767255
+  normal: https://cards.scryfall.io/normal/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.jpg?1562767255
+  large: https://cards.scryfall.io/large/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.jpg?1562767255
+  png: https://cards.scryfall.io/png/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.png?1562767255
+  art_crop: https://cards.scryfall.io/art_crop/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.jpg?1562767255
+  border_crop: https://cards.scryfall.io/border_crop/front/9/f/9fc78f1d-a191-4182-8064-8970ec47a525.jpg?1562767255
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: All creatures have protection from red.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+set: wc00
+set_name: World Championship Decks 2000
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc00&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc00?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9fc78f1d-a191-4182-8064-8970ec47a525/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4aa8391-34d5-4ad2-a981-9aa08f8229db&unique=prints
+collector_number: nl2sba
+digital: false
+rarity: uncommon
+flavor_text: The strength of law is unwavering. It is an iron bar in a world of water.
+card_back_id: 056eb595-ee96-4682-9206-1eaba1e88719
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 951f849e-b0ba-4cda-9fdc-d6cbca84f840
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15457
+penny_rank: 12571
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Absolute+Law&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Absolute+Law&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Absolute+Law
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164490?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Absolute+Law&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Absolute+Law&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

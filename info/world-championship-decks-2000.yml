@@ -1,0 +1,15 @@
+---
+object: set
+id: 632741a4-411d-4110-b507-5a5cfdd52ef2
+code: wc00
+name: World Championship Decks 2000
+uri: https://api.scryfall.com/sets/632741a4-411d-4110-b507-5a5cfdd52ef2
+scryfall_uri: https://scryfall.com/sets/wc00
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awc00&unique=prints
+released_at: '2000-08-02'
+set_type: memorabilia
+card_count: 117
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
